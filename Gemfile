@@ -10,6 +10,9 @@ gem 'jquery-rails', '4.3.1'
 gem 'turbolinks', '5.0.1'
 gem 'jbuilder', '2.6.4'
 gem 'nokogiri', '1.7.2'
+gem 'httparty', '0.15.5'
+gem 'active_model_serializers'
+gem "devise"
 gem 'sdoc', '0.4.2', group: :doc
 
 group :development, :test do
